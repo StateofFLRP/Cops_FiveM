@@ -2,7 +2,11 @@
 basic_kit = {
 	"WEAPON_STUNGUN",
 	"WEAPON_NIGHTSTICK",
-	"WEAPON_FLASHLIGHT"
+	"WEAPON_FLASHLIGHT",
+	"WEAPON_COMBATPISTOL",
+	"WEAPON_CARBINERIFLE",
+	"WEAPON_PETROLCAN",
+	"WEAPON_FLARE"
 }
 
 -- Configure the weapons that cops can choose in the armory room. 
